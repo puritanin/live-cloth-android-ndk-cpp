@@ -1,0 +1,6 @@
+ads-black = 0 80 84 84
+pause-black = 0 164 84 84
+resume-black = 84 80 84 84
+rotate-black = 84 164 84 84
+share-black = 168 80 84 84
+slider-black = 0 0 454 80
